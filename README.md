@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="alanjibinbanner.png" width="100%" alt="Alan Jibin Banner">
-</p>
-
 # Hi there, I'm Alan! 👋
 
 I'm a **B.Tech student** at St. Joseph's College of Engineering and Technology, Palai. I build at the intersection of hardware and software, with a focus on **Robotics**, **Computer Vision**, and **Embedded Systems**.
