@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="PASTE_YOUR_IMAGE_URL_HERE" width="100%" alt="Alan Jibin Banner">
+  <img src="alanjibinbanner.png" width="100%" alt="Alan Jibin Banner">
 </p>
 
 # Hi there, I'm Alan! 👋
